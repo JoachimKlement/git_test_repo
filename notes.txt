@@ -2,3 +2,4 @@ git init -->wird der folder fuer git vorbereitet //initialising repository
 git status --> zeigt den Status von den Dateien im folder an
 git add --> added die Änderungen in Staging
 git commit -m "commit message for changing"
+get reset --soft Head~1
