@@ -6,4 +6,3 @@ git reset --soft HEAD~1 ../mit soft wird die Änderung im cmmits gelöscht die �
 git reset --mixed HEAD~1 ../ mit mixed wird die Änderung im commits gelöscht die Änderung wird is working directory zück geschrieben
 git reset --hard HEAD~1 ../mit hard wird die  Änderung komplett gelöscht
 
-test
