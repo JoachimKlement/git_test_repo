@@ -7,5 +7,3 @@ git reset --mixed HEAD~1 ../ mit mixed wird die Änderung im cmmits gelöscht di
 git reset --hard HEAD~1 ../mit hard wird die  Änderung komplett gelöscht
 mit reset wird etwas zurückgesetzt, wenn es noch nicht auf github commited ist 
 mit revert wir detwas zurückgesetzt, wenn es schon auf github commited ist. Damit können sich die anderen dann die Änderung ebenfalls ziehen
-
-ökaskökösadkö
