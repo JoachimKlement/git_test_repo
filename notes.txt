@@ -2,6 +2,6 @@ git init -->wird der folder fuer git vorbereitet //initialising repository
 git status --> zeigt den Status von den Dateien im folder an
 git add --> added die Änderungen in Staging
 git commit -m "commit message for changing"
-git reset --soft Head~1
-
-Ich schreib da totalen Quatsch
+git reset --soft HEAD~1 ../mit soft wird die Änderung im cmmits gelöscht die Änderung wird in die Staging Area zurück geschrieben 
+git reset --mixed HEAD~1 ../ mit mixed wird die Änderung im cmmits gelöscht die Änderung wird is working directory zück geschrieben
+git reset --hard HEAD~
