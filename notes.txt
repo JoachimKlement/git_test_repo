@@ -3,3 +3,5 @@ git status --> zeigt den Status von den Dateien im folder an
 git add --> added die Änderungen in Staging
 git commit -m "commit message for changing"
 git reset --soft Head~1
+
+Ich schreib da totalen Quatsch
