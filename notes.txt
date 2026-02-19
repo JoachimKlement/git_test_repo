@@ -5,3 +5,5 @@ git commit -m "commit message for changing"
 git reset --soft HEAD~1 ../mit soft wird die Änderung im cmmits gelöscht die Änderung wird in die Staging Area zurück geschrieben 
 git reset --mixed HEAD~1 ../ mit mixed wird die Änderung im cmmits gelöscht die Änderung wird is working directory zück geschrieben
 git reset --hard HEAD~1 ../mit hard wird die  Änderung komplett gelöscht
+mit reset wird etwas zurückgesetzt, wenn es noch nicht auf github commited ist 
+mit revert wir detwas zurückgesetzt, wenn es schon auf github commited ist. Damit können sich die anderen dann die Änderung ebenfalls ziehen
